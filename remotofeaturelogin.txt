@@ -1,0 +1,2 @@
+Creo en el remoto feature/login un nuevo archivo. Recordemos que feature/login nació en la rama local. Lo que quiero ver es si
+se activa automáticamente el seguiemiento con la rama remota.
