@@ -1,0 +1,2 @@
+Este archivo lo he creado después de hacer git clone o git remote me da igual. Lo que quiero probar es que la referencia no incorporara los cambios de este 
+archivo porque el commit es posterior a mi git clone o git remote add.
