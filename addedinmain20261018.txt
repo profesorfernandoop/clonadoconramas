@@ -1,7 +1,0 @@
-Este archivo lo hago para probar una fusion del remoto en el local.
-Haré en el local:
-1. git fetch origin
-2  git pull origin main o (solo git pull)
-3. git switch main (en repositorio local)
-4. git merge origin
-Hasta aqui, veamos si funciona.
