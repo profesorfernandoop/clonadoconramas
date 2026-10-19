@@ -2,3 +2,10 @@ Añado contenido a la rama feature/index remota. A todos los efectos es como si 
 ---------------------------------------------------------------------------------------------------------------------
 Contenido añadido desde Github.com.
 ----------------------------------------------------------------------------------------
+Bien ahora viene el paso contrario:
+   Usando VSCODE estoy modificando el archivo addedfromremote.txt para
+   posteriormente subir los cambios al repositorio centralizado de GitHub.
+   De esta forma hemos repasado los dos comandos básicos para trabajar con remotos:
+      1.- Git fetch junto con git pull
+      2.- Git push para publicar contenido en el servidor centralizado.
+   
